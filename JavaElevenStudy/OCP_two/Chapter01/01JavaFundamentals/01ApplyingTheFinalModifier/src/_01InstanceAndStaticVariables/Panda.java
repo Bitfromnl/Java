@@ -1,4 +1,4 @@
-package InstanceAndStaticVariables;
+package _01InstanceAndStaticVariables;
 
 /*
 Static final  variables must be given a value or they don't compile
@@ -13,7 +13,7 @@ height is never given a value as a static final
 public class Panda {
     final static String name = "Ronda";
     static final int bamboo;
-    static final double heigth;
+//    static final double heigth;
 
     static {bamboo = 5;}
 

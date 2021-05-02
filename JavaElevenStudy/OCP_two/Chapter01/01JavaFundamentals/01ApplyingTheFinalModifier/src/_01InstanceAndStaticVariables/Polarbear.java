@@ -1,4 +1,4 @@
-package InstanceAndStaticVariables;
+package _01InstanceAndStaticVariables;
 /*
 When an instance variable is marked final then it must be assigned a value when
 it is declared or when the object is instantiated.
